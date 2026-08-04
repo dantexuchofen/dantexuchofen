@@ -10,9 +10,9 @@
 <td width="50%" align="left">
   
 - Soy un Ingeniero de Software de la Universidad San Ignacio de Loyola.
-- Actualmente estoy especializándome en el desarrollo de aplicaciones móviles para Android.
-- Disfruto mucho usando Kotlin como lenguaje de programación y Android Studio como IDE.
-- En un futuro también me gustaría aprender a desarrollar para iOS.
+- Actualmente estoy especializándome en el desarrollo de aplicaciones web y Android.
+- Disfruto mucho usando lenguajes de programación orientados a objetos como Kotlin y Java.
+- También tengo interés en la computación en la nube, sobre todo en servicios como Azure y AWS.
 - Además, cuento con estudios y experiencia en el desarrollo de videojuegos.
 
 </td>
